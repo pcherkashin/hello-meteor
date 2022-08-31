@@ -2,7 +2,7 @@ import React from "react";
 import {ContactsCollection} from "../api/ContactsCollection";
 
 export const ContactForm = () => {
-  const [name, setName] = React.useState(""); // Formik
+  const [name, setName] = React.useState(""); 
   const [email, setEmail] = React.useState("");
   const [imageUrl, setImageUrl] = React.useState("");
 
