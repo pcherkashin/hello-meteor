@@ -12,7 +12,7 @@ export const SuccessAlert = ({ message }) => {
         <div className="ml-3">
           <h3 className="text-sm font-medium text-green-800"> {message} </h3>
           <div className="mt-2 text-sm text-green-700">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid pariatur, ipsum similique veniam.</p>
+            <p>Contact Saved</p>
           </div>
           <div className="mt-4">
             <div className="-mx-2 -my-1.5 flex">
